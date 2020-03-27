@@ -1,7 +1,7 @@
 # WebTechAssignmentB
 This Is the Second Option Of The First Assignment
 
-#How To Open The Files 
+# How To Open The Files 
 
 1. Have Node.js Set Up On Your PC
 2. When Setted Up Open Index2.js File and run it as a server (With Web Socket)
